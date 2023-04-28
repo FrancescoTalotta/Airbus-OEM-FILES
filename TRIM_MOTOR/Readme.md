@@ -1,6 +1,6 @@
 # Airbus OEM TRIM MOTOR
 
-Took a lot of ideas from: https://soarbywire.com/2019/01/21/trim-wheel-motorization/
+* Took a lot of ideas from: https://soarbywire.com/2019/01/21/trim-wheel-motorization/
 
 ## Components:
 
