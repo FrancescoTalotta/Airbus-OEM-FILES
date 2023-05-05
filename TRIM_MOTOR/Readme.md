@@ -12,4 +12,4 @@
 
 ## CNC Machined Parts:
 
-![Machined Parts](TRIM_MOTOR/machined_parts.jpg)
+![Machined Parts](machined_parts.jpg)
