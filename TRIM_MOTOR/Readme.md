@@ -16,4 +16,4 @@
 
 ## CNC Machined Parts:
 
-
+![Machined Parts](machined_parts.jpg)
