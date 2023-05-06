@@ -1,6 +1,6 @@
 # Airbus OEM TRIM MOTOR
 
-* Main file: 'TRIM_MOTOR_v10.step' designed in Fusion 360 
+* Main file: `TRIM_MOTOR_v10.step` designed in Fusion 360 
 
 * Took a lot of ideas from: https://soarbywire.com/2019/01/21/trim-wheel-motorization/
 
