@@ -4,6 +4,8 @@
 
 * Took a lot of ideas from: https://soarbywire.com/2019/01/21/trim-wheel-motorization/
 
+![Machined Parts](preview.png)
+
 ## Components:
 
 * Maxon Motor 144650 used (Ebay)
@@ -14,4 +16,4 @@
 
 ## CNC Machined Parts:
 
-![Machined Parts](machined_parts.jpg)
+
