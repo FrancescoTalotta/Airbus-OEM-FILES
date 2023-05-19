@@ -21,4 +21,4 @@
 
 ## The Final Result:
 
-![Machined Parts](final.jpg)
+![Final Result](final.jpeg)
