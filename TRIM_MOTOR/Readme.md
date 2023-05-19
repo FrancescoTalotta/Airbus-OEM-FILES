@@ -18,3 +18,7 @@
 ## CNC Machined Parts:
 
 ![Machined Parts](machined_parts.jpg)
+
+## The Final Result:
+
+![Machined Parts](final.jpg)
