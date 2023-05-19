@@ -13,7 +13,7 @@
 * Vishay 534 10kΩ potentiometer, 6mm shaft (RS)
 * Brass Gear 45 Teeth, 6mm hole diameter (Aliexpress https://www.aliexpress.com/item/32843608458.html?spm=a2g0o.order_detail.order_detail_item.4.5f3e4d1aRZIgCr) 
 * Brass Gear 34 Teeth, 6mm hole diameter (Aliexpress https://www.aliexpress.com/item/32843608458.html?spm=a2g0o.order_detail.order_detail_item.4.5f3e4d1aRZIgCr)
-* M6 Rods
+* M6 Rods (local DIY store)
 
 ## CNC Machined Parts:
 
