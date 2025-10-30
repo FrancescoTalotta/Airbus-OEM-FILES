@@ -86,7 +86,7 @@ Not all Arduino boards expose this pin:
 
 ---
 
-⚠️ Safety Disclaimer   
+## ⚠️ Safety Disclaimer   
 
 This project is not designed, certified, or approved for use in real aircraft or aviation systems.    
 It is intended solely for educational purposes, bench experiments, and non-professional flight simulation setups.    
