@@ -86,9 +86,17 @@ Not all Arduino boards expose this pin:
 
 ---
 
+⚠️ Safety Disclaimer   
+
+This project is not designed, certified, or approved for use in real aircraft or aviation systems.    
+It is intended solely for educational purposes, bench experiments, and non-professional flight simulation setups.    
+Do not use this hardware or software in any operational avionics equipment.   
+
+---
+
 ## 📄 License
 This project is released under the MIT License.  
-Feel free to use, modify, and adapt it for your avionics or educational applications.
+Feel free to use, modify, and adapt it to interface sims avionics or educational applications. 
 
 ---
 
