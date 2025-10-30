@@ -36,6 +36,10 @@ To solve this, the project uses the **USART in Synchronous (SPI) mode**, also kn
 In this configuration, the USART’s baud-rate generator acts as a flexible clock divider,  
 allowing precise frequency control for both ARINC data rates.
 
+The rising and falling times are managed by the HI-8586 SLP1.5 input pin. The HIGH or LOW states change the    
+rising and falling times. In the `main.c` file the SLP1.5 is connected to PD5 and controlled    
+inside the `usart0_mspim_init` function
+
 ---
 
 ## 🧰 Hardware Requirements
